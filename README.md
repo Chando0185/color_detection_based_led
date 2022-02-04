@@ -1,1 +1,1 @@
-# color_detection_based_led
+# Color Detection Based LED Control Using Python & Arduino.
